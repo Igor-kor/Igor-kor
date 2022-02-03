@@ -1,4 +1,10 @@
-### Hi there 👋
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igor-kor&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Igor-kor&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Igor-kor&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igor-kor&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Igor-kor&theme=solarized_dark)
+
+![](https://komarev.com/ghpvc/?username=Igor-kor)
 
 <!--
 **Igor-kor/Igor-kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
